@@ -1,2 +1,2 @@
-# C-25
-I created a raindrop pattern
+# p5.play-boilerplate
+Boiler plate for p5.play
